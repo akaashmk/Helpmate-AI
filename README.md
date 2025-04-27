@@ -1,7 +1,3 @@
-Of course! Here's a **full README.md** you can directly use or tweak for your GitHub repository:
-
----
-
 # HelpMate AI
 
 > **AI-powered chatbot to assist with insurance policy documents.**  
