@@ -1,14 +1,26 @@
 # HelpMate AI
 
 > **AI-powered chatbot to assist with insurance policy documents.**  
-> Built as part of UpGrad’s AI and ML PG Program (IIIT Bangalore) – Generative AI Module.
 
 ---
 
-## 📚 Project Overview
+📚 About the Project
+RAG Insurance Assistant (HelpMate AI) is an innovative solution crafted to simplify the process of understanding and extracting information from complex insurance documents.
 
-**HelpMate AI** is an intelligent chatbot system designed to understand natural language queries and provide accurate, citation-backed answers from insurance policy documents.  
-It leverages state-of-the-art embedding models, semantic search, and GPT-powered language models to assist users efficiently.
+Traditional methods of sifting through lengthy policy documents, claim guidelines, and legal jargon are often time-consuming and frustrating for users.
+HelpMate AI eliminates these challenges by leveraging Retrieval-Augmented Generation (RAG) — a cutting-edge approach that combines semantic information retrieval with natural language generation from advanced AI models.
+
+With HelpMate AI, users can ask natural, everyday questions and receive clear, citation-backed answers directly sourced from their insurance documents.
+
+🎯 Example Use Cases
+"What is covered under my health insurance policy?"
+
+"How can I file a claim for vehicle insurance?"
+
+"What exclusions should I be aware of in my travel insurance?"
+
+"What documents are required to file a hospitalization claim?"
+
 
 ---
 
