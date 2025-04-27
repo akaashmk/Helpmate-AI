@@ -4,7 +4,7 @@
 
 ---
 
-📚 About the Project
+## 📚 About the Project
 RAG Insurance Assistant (HelpMate AI) is an innovative solution crafted to simplify the process of understanding and extracting information from complex insurance documents.
 
 Traditional methods of sifting through lengthy policy documents, claim guidelines, and legal jargon are often time-consuming and frustrating for users.
