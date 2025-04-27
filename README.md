@@ -75,7 +75,7 @@ Response Generation ➔ Caching ➔ User Interface
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/helpmate-ai.git
+git clone https://github.com/akaashmk/helpmate-ai.git
 cd helpmate-ai
 pip install -r requirements.txt
 ```
