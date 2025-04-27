@@ -89,8 +89,8 @@ OPENAI_API_KEY=your_openai_api_key
 
 For any queries or feedback, feel free to reach out:
 
-Email: akaashmk@gmail.com
-GitHub: https://github.com/akaashmk/
-LinkedIn: www.linkedin.com/in/akaashkarthikeyan
+- Email: akaashmk@gmail.com
+- GitHub: https://github.com/akaashmk/
+- LinkedIn: www.linkedin.com/in/akaashkarthikeyan
 
 ---
